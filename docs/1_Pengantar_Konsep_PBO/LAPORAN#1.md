@@ -5,6 +5,8 @@
 1. Perbedaan paradigma berorientasi objek dengan paradigma struktural
 2. Konsep dasar PBO
 
+12345678890
+
 ## Ringkasan Materi
 
 untuk keseluruhan dalam menyelesaikan tugas yang di berikan dosen tidak ada masalah, cuman agak sedikit bingung cara mengirimnya dan format"nya agak membingungkan. 
@@ -16,8 +18,8 @@ untuk keseluruhan dalam menyelesaikan tugas yang di berikan dosen tidak ada masa
 (memberitahu bagaimana cara membuat class, object, kemudian mengakses method pada dalam kelas tertentu)
 
 
-![contoh screenshot](img/Sepeda.PNG)
-![contoh screenshot](img/SepedaDemoHasil.PNG)
+![contoh screenshot](img/Sepeda.jpg)
+![contoh screenshot](img/SepedaDemoHasil.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/Sepeda1841720157Andri.java)
 Contoh link kode program : [ini contoh link ke kode program](../../src/SepedaDemo1841720157Andri.java)
@@ -26,8 +28,8 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/SepedaDem
 
 (memperkenalkan inheritance dalam PBO)
 
-![contoh screenshot](img/SepedaDemoHasil.PNG)
-![contoh screenshot](img/SepedaGunung.PNG)
+![contoh screenshot](img/SepedaDemoHasil.jpg)
+![contoh screenshot](img/SepedaGunung.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720157Andri.java)
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720157Andri.java)
@@ -63,7 +65,7 @@ Polimorfisme juga meniru sifat objek di dunia nyata, dimana sebuah objek dapat m
 
 4)	atribut merk, atribut kecepatan, dan gear.
 
-5) ![contoh screenshot](img/pertanyaan.jpeg)
+5) ![contoh screenshot](img/pertanyaan.PNG)
 
 6)	karena pada class SepedaGunung terdapat komponen tambahan meskipun class SepedaGunung tersebut diwariskan dari class Sepeda.
 
@@ -72,9 +74,9 @@ Polimorfisme juga meniru sifat objek di dunia nyata, dimana sebuah objek dapat m
 
 (silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-![contoh screenshot](img/Tugas1.jpeg)
-![contoh screenshot](img/Tugas2.jpeg)
-![contoh screenshot](img/Hasiltugas.jpeg)
+![contoh screenshot](img/Tugas1.jpg)
+![contoh screenshot](img/Tugas2.jpg)
+![contoh screenshot](img/Hasiltugas.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/Motor.java)
 Contoh link kode program : [ini contoh link ke kode program](../../src/MotorMain.java)
