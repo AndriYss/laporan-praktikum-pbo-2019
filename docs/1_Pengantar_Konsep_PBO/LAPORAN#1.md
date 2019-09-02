@@ -65,7 +65,7 @@ Polimorfisme juga meniru sifat objek di dunia nyata, dimana sebuah objek dapat m
 
 4)	atribut merk, atribut kecepatan, dan gear.
 
-5) ![contoh screenshot](img/pertanyaan.PNG)
+5) ![contoh screenshot](img/pertanyaan.png)
 
 6)	karena pada class SepedaGunung terdapat komponen tambahan meskipun class SepedaGunung tersebut diwariskan dari class Sepeda.
 
