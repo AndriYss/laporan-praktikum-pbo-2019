@@ -10,7 +10,7 @@
 6) Mahasiswa dapat memahami implementasi dari try-catch
 7) Mahasiswa dapat memahami proses pemodelan class diagram menggunakan UML
 
-12345678890
+
 
 ## Ringkasan Materi
 
