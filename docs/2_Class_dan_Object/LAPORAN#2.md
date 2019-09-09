@@ -23,7 +23,7 @@ untuk keseluruhan dalam menyelesaikan tugas yang di berikan dosen tidak ada masa
 (Membuat Class Diagram)
 
 
-![contoh screenshot](img/Karyawan.PNG)
+![contoh screenshot](img/Karyawan.png)
 
 Soal
 2. Sebutkan Class apa saja yang bisa dibuat dari studi kasus 1!,
@@ -50,8 +50,8 @@ Jawab
 
 ( Membuat dan mengakses anggota suatu class)
 
-![contoh screenshot](img/Mahasiswa1841720157Andri.PNG)
-![contoh screenshot](img/TestMahasiswa1841720157Andri.PNG)
+![contoh screenshot](img/Mahasiswa1841720157Andri.png)
+![contoh screenshot](img/TestMahasiswa1841720157Andri.png)
 
 Contoh link kode program : [Program 1](../../src/2_Class_dan_Object/Mahasiswa1841720157Andri.java)
 Contoh link kode program : [Program 2](../../src/2_Class_dan_Object/TestMahasiswa1841720157Andri.java)
@@ -87,14 +87,14 @@ jawab
 
 11. memanggil method tampilBiodata(); untuk memanggil biodata mahasiswa
 
-12. ![contoh screenshot](img/MahasiswaSoal.PNG)
+12. ![contoh screenshot](img/MahasiswaSoal.png)
 
 ### Percobaan 3
 
 ( Menulis method yang memiliki argument/parameter dan memiliki return)
 
-![contoh screenshot](img/Barang1841720157Andri.PNG)
-![contoh screenshot](img/TestBarang1841720157Andri.PNG)
+![contoh screenshot](img/Barang1841720157Andri.png)
+![contoh screenshot](img/TestBarang1841720157Andri.png)
 
 Contoh link kode program : [Program 1](../../src/2_Class_dan_Object/Barang1841720157Andri.java)
 Contoh link kode program : [Program 2](../../src/2_Class_dan_Object/TestBarang1841720157Andri.java)
@@ -117,22 +117,22 @@ jawab
 1. ![contoh screenshot](img/DiagramPenyimpanan.jpg)
 
 
-2. ![contoh screenshot](img/Sewa1841720157Andri.PNG)
-   ![contoh screenshot](img/SewaDemo1841720157Andri.PNG)
+2. ![contoh screenshot](img/Sewa1841720157Andri.png)
+   ![contoh screenshot](img/SewaDemo1841720157Andri.png)
 
 Contoh link kode program : [Program 1](../../src/2_Class_dan_Object/Sewa1841720157Andri.java)
 Contoh link kode program : [Program 2](../../src/2_Class_dan_Object/SewaDemo1841720157Andri.java)
 
 
-3. ![contoh screenshot](img/Lingkaran1841720157Andri.PNG)
-   ![contoh screenshot](img/LingkaranDemo1841720157Andri.PNG)
+3. ![contoh screenshot](img/Lingkaran1841720157Andri.png)
+   ![contoh screenshot](img/LingkaranDemo1841720157Andri.png)
 
 Contoh link kode program : [Program 1](../../src/2_Class_dan_Object/Sewa1841720157Andri.java)
 Contoh link kode program : [Program 2](../../src/2_Class_dan_Object/SewaDemo1841720157Andri.java)
 
 
-4. ![contoh screenshot](img/BarangDua1841720157Andri.PNG)
-   ![contoh screenshot](img/BarangDuaDemo1841720157Andri.PNG)
+4. ![contoh screenshot](img/BarangDua1841720157Andri.png)
+   ![contoh screenshot](img/BarangDuaDemo1841720157Andri.png)
 
 Contoh link kode program : [Program 1](../../src/2_Class_dan_Object/BarangDua1841720157Andri.java)
 Contoh link kode program : [Program 2](../../src/2_Class_dan_Object/BarangDuaDemo1841720157Andri.java)
