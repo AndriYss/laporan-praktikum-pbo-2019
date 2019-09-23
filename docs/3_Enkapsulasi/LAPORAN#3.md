@@ -12,7 +12,7 @@
 
 ## Ringkasan Materi
 
-untuk keseluruhan dalam menyelesaikan tugas yang di berikan dosen tidak ada masalah, mulai terbiasa dengan cara pengiriman 
+untuk keseluruhan dalam menyelesaikan tugas yang di berikan dosen tidak ada masalah, mulai terbiasa dengan cara pengiriman siappp
 
 ## Percobaan
 
