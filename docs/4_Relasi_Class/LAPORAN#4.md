@@ -200,7 +200,7 @@ Jawab
 
 program
 
-  ![](img/dosen.png)
+  ![](img/Dosen.png)
   ![](img/Mahasiswa.png)
   ![](img/MataKuliah.png)
   ![](img/RuangKelas.png)
