@@ -7,7 +7,7 @@ package Pbo4;
 
 /**
  *
- * @author ASUS
+ * @author WINDOWS 10
  */
 public class Mobil {
     private String nama;

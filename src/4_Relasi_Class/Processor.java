@@ -7,7 +7,7 @@ package Pbo4;
 
 /**
  *
- * @author ANDRI
+ * @author WINDOWS 10
  */
 public class Processor {
     private String merk;

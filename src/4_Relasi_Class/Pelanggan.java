@@ -7,7 +7,7 @@ package Pbo4;
 
 /**
  *
- * @author ASUS
+ * @author WINDOWS 10
  */
 public class Pelanggan {
     private String nama;

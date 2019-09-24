@@ -7,7 +7,7 @@ package Pbo4;
 
 /**
  *
- * @author ASUS
+ * @author WINDOWS 10
  */
         public class MainPercobaan2{
     public static void main(String[] args) {

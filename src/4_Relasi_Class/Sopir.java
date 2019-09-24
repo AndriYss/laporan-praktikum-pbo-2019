@@ -7,7 +7,7 @@ package Pbo4;
 
 /**
  *
- * @author ASUS
+ * @author WINDOWS 10
  */
 public class Sopir {
     private String nama;   
