@@ -1,4 +1,4 @@
-# Laporan Praktikum #4 - Relasi Kelas
+# Laporan Praktikum #6 - Inheritance
 ## Kompetensi
 
 1. Memahami	konsep	dasar	inheritance	atau	pewarisan.
