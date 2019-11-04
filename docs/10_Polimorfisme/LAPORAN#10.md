@@ -31,7 +31,7 @@ link kode program : [Program 2](../../src/10_Polimorfisme/Payable1841720157Andri
 
 link kode program : [Program 3](../../src/10_Polimorfisme/InternshipEmployee1841720157Andri.java)
 
-link kode program : [Program 4](../../src/10_Polimorfisme/PermanenEmployee1841720157Andri.java)
+link kode program : [Program 4](../../src/10_Polimorfisme/PermanentEmployee1841720157Andri.java)
 
 link kode program : [Program 5](../../src/10_Polimorfisme/ElectricityBill1841720157Andri.java)
 
