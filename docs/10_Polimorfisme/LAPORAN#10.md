@@ -187,7 +187,7 @@ link kode program : [Program 7](../../src/10_Polimorfisme/Tester.java)
 
 ## Kesimpulan
 
-Polimorfisme terdiri dari konsep-konsep dasar,konsep virtual method invication,serta polimorfisme dapat diterapkan pada pembuatan heterogeneous collection,parameter/argument method,serta object casting untuk mengubah bentuk object.
+Polimorfisme terdiri dari konsep-konsep dasar,konsep virtual method invication,serta polimorfisme dapat diterapkan pada pembuatan heterogeneous collection,parameter/argument method,serta object casting untuk mengubah bentuk object
 
 
 ## Pernyataan Diri
